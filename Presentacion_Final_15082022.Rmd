@@ -198,7 +198,7 @@ mplt.show()
 
 ## ***Creación de Repositorio y acceso:***
 
-```{r Video_Proceso_Github, results='asis'}
+```{r Video_Uso_Github, results='asis'}
 
 embed_url("https://youtu.be/8iajbElxsxs")
 
@@ -216,7 +216,7 @@ https://rpubs.com/jachimi/Proyecto_Final_R_RM_G_GH_18082022
 ### ***Link de acceso repositorio en Github:***
 
 ![Repositorio](logo_github.png){width="15%"}
-https://github.com/jachimi/proyecto_trabajo_final/tree/master
+https://github.com/jachimi/proyecto_final_r_rm_g_gh_18082022.git
 
 
 ------------------------------------------------------------------------

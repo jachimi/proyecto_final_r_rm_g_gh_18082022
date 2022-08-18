@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/933395/37cdee2c1e26433d99f53febafae76f2
+bundleId: https://api.rpubs.com/api/v1/document/933395/37cdee2c1e26433d99f53febafae76f2
+url: http://rpubs.com/jachimi/933395
+when: 1660844684.48428
+lastSyncTime: 1660844684.48431
